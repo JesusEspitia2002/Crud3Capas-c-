@@ -1,0 +1,15 @@
+C:\Users\Flia Espitia Rueda\source\repos\CRUDFinal4BR\AccesoDato\bin\Debug\net8.0\AccesoDato.deps.json
+C:\Users\Flia Espitia Rueda\source\repos\CRUDFinal4BR\AccesoDato\bin\Debug\net8.0\AccesoDato.dll
+C:\Users\Flia Espitia Rueda\source\repos\CRUDFinal4BR\AccesoDato\bin\Debug\net8.0\AccesoDato.pdb
+C:\Users\Flia Espitia Rueda\source\repos\CRUDFinal4BR\AccesoDato\bin\Debug\net8.0\Comun.dll
+C:\Users\Flia Espitia Rueda\source\repos\CRUDFinal4BR\AccesoDato\bin\Debug\net8.0\Comun.pdb
+C:\Users\Flia Espitia Rueda\source\repos\CRUDFinal4BR\AccesoDato\obj\Debug\net8.0\AccesoDato.csproj.AssemblyReference.cache
+C:\Users\Flia Espitia Rueda\source\repos\CRUDFinal4BR\AccesoDato\obj\Debug\net8.0\AccesoDato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flia Espitia Rueda\source\repos\CRUDFinal4BR\AccesoDato\obj\Debug\net8.0\AccesoDato.AssemblyInfoInputs.cache
+C:\Users\Flia Espitia Rueda\source\repos\CRUDFinal4BR\AccesoDato\obj\Debug\net8.0\AccesoDato.AssemblyInfo.cs
+C:\Users\Flia Espitia Rueda\source\repos\CRUDFinal4BR\AccesoDato\obj\Debug\net8.0\AccesoDato.csproj.CoreCompileInputs.cache
+C:\Users\Flia Espitia Rueda\source\repos\CRUDFinal4BR\AccesoDato\obj\Debug\net8.0\AccesoDato.csproj.Up2Date
+C:\Users\Flia Espitia Rueda\source\repos\CRUDFinal4BR\AccesoDato\obj\Debug\net8.0\AccesoDato.dll
+C:\Users\Flia Espitia Rueda\source\repos\CRUDFinal4BR\AccesoDato\obj\Debug\net8.0\refint\AccesoDato.dll
+C:\Users\Flia Espitia Rueda\source\repos\CRUDFinal4BR\AccesoDato\obj\Debug\net8.0\AccesoDato.pdb
+C:\Users\Flia Espitia Rueda\source\repos\CRUDFinal4BR\AccesoDato\obj\Debug\net8.0\ref\AccesoDato.dll
